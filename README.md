@@ -15,13 +15,4 @@
 
 
 
-💻  Tech Stack:
 
-JavaScript  Node.js  HTML  CSS  CSS 
-
-
-
-
-🔎  Learning:
-
-CSharp  DotNet  React
