@@ -13,6 +13,6 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NicolyLuisaG&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/NicolyLuisaG/github-readme-stats#gh-dark-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs GitHub stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 
