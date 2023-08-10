@@ -12,3 +12,5 @@
     🏠 Nowadays i'm living in Santa Rita do Sapucaí-MG, the electronics valley. 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolyLuisaG)](https://github.com/NicolyLuisaG/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews)
