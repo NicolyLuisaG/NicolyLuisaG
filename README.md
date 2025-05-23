@@ -15,7 +15,7 @@
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NicolyLuisaG&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/NicolyLuisaG/github-readme-stats#gh-dark-mode-only)
 ## Github stats:
 
-![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/NicolyLuisaG/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/NicolyLuisaG/generated/languages.svg#gh-dark-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
