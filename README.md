@@ -12,13 +12,12 @@
     📍 From: Mogi Das Cruzes/SP-🇧🇷;
     🏠 Nowadays i'm living in Limeira-Sp, the eletrinics valley.
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NicolyLuisaG&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/NicolyLuisaG/github-readme-stats#gh-dark-mode-only)
-## Github stats:
-
-![GITHUB Stats](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/idimetrix/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=ConceptionWorld&theme=nord&show_icons=true&hide_border=true&count_private=true" width="400" alt="ConceptionWorld's GitHub Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ConceptionWorld&theme=nord&hide_border=true" width="423" alt="ConceptionWorld's GitHub Streak"/> 
+</div>
 
 ---
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 
