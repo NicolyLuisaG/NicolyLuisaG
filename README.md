@@ -8,9 +8,9 @@
 
  About me:
 
-    ♍ Birthday: 18/02/2006;
+    ♒ Birthday: 18/02/2006;
     📍 From: Mogi Das Cruzes/SP-🇧🇷;
-    🏠 Nowadays i'm living in Limeira-Sp, the eletrinics valley.
+    🏠 Nowadays i'm living in Limeira-Sp.
 ---
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=NicolyLuisaG&theme=nord&show_icons=true&hide_border=true&count_private=true" width="400" alt="NicolyLuisaG's GitHub Stats"/>
