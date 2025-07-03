@@ -14,7 +14,7 @@
 ---
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=NicolyLuisaG&theme=nord&show_icons=true&hide_border=true&count_private=true" width="400" alt="NicolyLuisaG's GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolyLuisaG&layout=compact&theme=nord"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolyLuisaG&layout=compact&theme=nord&hide_border=true"/>
 <!--     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NicolyLuisaG&theme=nord&hide_border=true" width="423" alt="NicolyLuisaG's GitHub Streak"/>  -->
 <!--      <img src=" https://github.com/anuraghazra/github-readme-stats)"/> -->
 </div>
